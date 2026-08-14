@@ -1,7 +1,7 @@
 # SOC252 Data Analysis Project: Canadian Immigrant Outcomes
 Final data analysis project for University of Toronto course SOC252: Intermediate Quantitative Methods for Sociology. Completed March 2025.
 
-Data analysis performed on STATA and Google Sheets.
+Data analysis performed using STATA and Google Sheets.
 
 Under the direction of Professor Leafia Ye and TA Zhen Wang.
 
