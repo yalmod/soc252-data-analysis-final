@@ -9,3 +9,8 @@ Under the direction of Professor Leafia Ye and TA Zhen Wang.
 In the 2000s, provincial immigration programs in Canada shifted from human capital requirements (language skills, job experience) to more specialized requirements (waiting job offer, previous work experience in Canada). **Has there been an empirical improvement in the economic standing of immigrants who are products of novel systems?** In this study, I will compare the wages of recent immigrants (landed 10 or less years before study; 2014-24), older immigrants (landed more than 10 years before study; <2014), and non-immigrants across provinces to make inferences on whether new immigrants are more adaptable than older immigrants of older systems.
 
 Conclusions are made by applying **multiple linear regression analysis** and **descriptive statistics** to the Statistics Canada Labour Force Survey (January 2024) dataset.
+
+## Project links
+* [Project paper](Yasmine%20Al-Mahood_SOC252_Data%20Analysis.pdf)
+* [Guidelines](Data%20Analysis%20Project%20Guidelines_Winter%202025.pdf)
+* [Dataset](lfs_dataset_2024.dta)
